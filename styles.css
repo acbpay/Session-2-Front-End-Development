@@ -1,0 +1,4 @@
+/* To avoid reaizing of the message boox */
+textarea{
+    resize: none;
+}
